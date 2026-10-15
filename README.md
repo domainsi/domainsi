@@ -31,10 +31,10 @@
 
 ---
 
-### 📊 STATS & TROPHIES
+### 🦅🛡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Domainsi&show_icons=tru>
+  <img src="https://github.com/domainsi/domainsi/blob/main/kheader.png" />
 </p>
 
 <div align="center">
