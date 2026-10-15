@@ -27,7 +27,7 @@
 * **Alias:** Black Opium White
 * **Entity:** Black Anonim 🎭
 * **Focus:** Cybersecurity, Red Team Operations, Network Architecture, Python CLI Engin>
-* **Philosophy:** *"In the shadows of code, we operate unseen. Elegance in simplicity, >
+* **Philosophy:** In the shadows of code, we operate unseen. Elegance in simplicity>
 
 ---
 
