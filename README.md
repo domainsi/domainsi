@@ -31,23 +31,6 @@
 
 ---
 
-### ⚡ TECH STACK & ARSENAL
-
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | Python, Bash, C, Go |
-| **Networking** | TCP/IP, ICMP, Sockets, Wireshark, Traceroute |
-| **Security / Pentest** | Nmap, Metasploit, Recon-ng, Custom Scanners |
-| **OS & Environment** | Kali Linux, Termux (Android), Ubuntu Server |
-
----
-
-### 🛡️ FEATURED REPOSITORIES
-
-* **[GARUDA SSH Suite](https://github.com/Domainsi/garuda-ssh)**: Elite Python CLI netw>
-
----
-
 ### 📊 STATS & TROPHIES
 
 <p align="center">
